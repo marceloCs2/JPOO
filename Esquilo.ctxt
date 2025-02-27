@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Esquilo
+comment1.params=
+comment1.target=Esquilo()
+comment10.params=
+comment10.target=void\ Falar()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkKeyParaAlterarDirecao()
+comment4.params=
+comment4.target=void\ initializeAndarDireita()
+comment5.params=
+comment5.target=void\ initializeAndarEsquerda()
+comment6.params=
+comment6.target=void\ animateAndarDireita()
+comment7.params=
+comment7.target=void\ animateAndarEsquerda()
+comment8.params=world
+comment8.target=void\ addedToWorld(greenfoot.World)
+comment9.params=
+comment9.target=boolean\ canRun()
+numComments=11

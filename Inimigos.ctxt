@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Inimigos
+comment1.params=
+comment1.target=Inimigos()
+comment10.params=
+comment10.target=boolean\ noColisionTime()
+comment11.params=
+comment11.target=void\ updateOpacity()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ seguirPlayer()
+comment4.params=
+comment4.target=void\ initializeMovientacao()
+comment5.params=
+comment5.target=void\ animateMovimentacao()
+comment6.params=
+comment6.target=void\ checkCollision()
+comment7.params=damage
+comment7.target=void\ TakeDamage(int)
+comment8.params=opacity
+comment8.target=void\ setOpacity(int)
+comment9.params=
+comment9.target=void\ die()
+numComments=12
